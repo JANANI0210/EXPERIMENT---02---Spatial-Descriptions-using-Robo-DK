@@ -29,3 +29,16 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 2. Select Tool frame with respect to Reference Frame and enter the X Y Z as a translation distance and Rx Ry Rz as a rotation angle to reach target
 
 3. Select Target 1
+
+Right Click and pick teach current position
+
+Similaly fix target in the given position
+
+### OUTPUT
+
+![Screenshot (266)](https://user-images.githubusercontent.com/86832944/199656823-02d5f07c-59d0-4495-aabe-88b876b945b6.png)
+
+### RESULT
+
+Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK.
+
